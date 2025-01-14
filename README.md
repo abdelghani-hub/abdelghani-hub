@@ -2,7 +2,7 @@
 
 ## 📫 How to reach me:
 - Email: aaittamghart8@gmail.com
-- Phone: +212 687 762 667
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghani-ait-tamghart)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aaittamghart8)
