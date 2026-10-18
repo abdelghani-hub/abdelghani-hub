@@ -1,95 +1,97 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+I+am+Abdelghani+AIT+TAMGHART;Full+Stack+Developer;Continuously+expanding+my+knowledge.)](https://git.io/typing-svg)
+<div align="center">
 
-## 📫 How to reach me:
-- Email: aaittamghart8@gmail.com
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghani-ait-tamghart)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aaittamghart8)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aitT_abdelghani)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/odba.abdo.39)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdelghani_ait_t)
+# Hi, I'm Abdelghani AIT TAMGHART 👋
 
+### Backend Enginner
 
----
-## 💻 Tech Stack:
+Building reliable APIs, scalable services, and practical web solutions.
 
-### Programming Languages:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdelghani-hub&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/abdelghani-hub)
+[![GitHub followers](https://img.shields.io/github/followers/abdelghani-hub?label=Followers&style=flat-square&logo=github)](https://github.com/abdelghani-hub?tab=followers)
 
-### Frameworks and Libraries:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+</div>
 
+## About me
 
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- 📍 Morocco
+- 💻 Focused on backend development with PHP, Laravel, Symfony, and Node.js
+- 🧩 Interested in clean architecture, APIs, databases, and Agile/Scrum practices
+- 📚 Continuously expanding my knowledge through projects and hands-on learning
+- ⚽ Outside of tech, I enjoy football and 8-ball pool
 
+## Connect with me
 
-### DevOps & Cloud:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-aaittamghart8%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aaittamghart8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelghani%20AIT%20TAMGHART-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghani-ait-tamghart)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/aaittamghart8)
+[![X](https://img.shields.io/badge/X-@aitT__abdelghani-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/aitT_abdelghani)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/odba.abdo.39)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdelghani_ait_t)
 
-### UI/UX and Design:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## Technical skills
 
-### Tools & Platforms:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+### Languages
 
-## 📊 GitHub Stats: (previous account)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-![Salah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghani1002&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=abdelghani1002&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghani1002&layout=compact&theme=dracula&hide_border=true)
+### Frameworks and libraries
 
-## 📊 GitHub Stats: (Current account)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-![Salah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghani-hub&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=abdelghani-hub&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghani-hub&layout=compact&theme=dracula&hide_border=true)
+### Databases and infrastructure
 
-## 🏆 GitHub Trophies:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdelghani1002&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
+### Tools
 
-## ✍️ Random Dev Quote:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0C66E4?style=flat-square&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## GitHub activity
 
-## ⚡ Fun fact:
-- I love combining my passions with my work—whether it's diving deep into backend development with PHP, perfecting Agile Scrum practices, enjoying a game of football or 8-ball pool, or simply fueling my creativity with a good cup of coffee. It's all about balance and continuous growth!
-## 🚀 Note:
-- I’ve recently started a new GitHub account as I lost access to my previous one (https://github.com/abdelghani1002). I’m excited to bring fresh projects and ideas to this new space. Stay tuned for exciting updates and feel free to reach out if you want to collaborate or chat!
+<div align="center">
 
----
-## 👀 Profile Viewers:
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelghani-hub&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent&hide_border=true" alt="Abdelghani's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghani-hub&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 
-[![](https://visitcount.itsvg.in/api?id=abdelghani-hub&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghani-hub&theme=transparent&hide_border=true" alt="GitHub streak" />
 
-Feel free to explore my repositories and connect with me. Let’s build something amazing together!
+</div>
+
+## A note from me
+
+I recently started this GitHub account after losing access to my previous account, [@abdelghani1002](https://github.com/abdelghani1002). I’m excited to share fresh projects, ideas, and continuous improvements here.
+
+<div align="center">
+
+**Thanks for stopping by — feel free to explore my repositories and connect with me!** 🚀
+
+</div>
