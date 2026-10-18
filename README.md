@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdelghani AIT TAMGHART 👋
 
-### Backend Enginner
+### Backend Engineer
 
 Building reliable APIs, scalable services, and practical web solutions.
 
@@ -14,10 +14,31 @@ Building reliable APIs, scalable services, and practical web solutions.
 ## About me
 
 - 📍 Morocco
+- 💼 Backend Engineer at **EasyDMat**, working on a multi-tenant dealership management platform for automotive brands (Fiat, Peugeot, Citroën, DS, Opel, Jeep, Alfa Romeo)
 - 💻 Focused on backend development with PHP, Laravel, Symfony, and Node.js
 - 🧩 Interested in clean architecture, APIs, databases, and Agile/Scrum practices
 - 📚 Continuously expanding my knowledge through projects and hands-on learning
 - ⚽ Outside of tech, I enjoy football and 8-ball pool
+
+## What I do at EasyDMat
+
+EasyDMat is a platform that manages the full lifecycle of a car sale, from the quote to delivery, for a network of dealerships. It is a set of four services deployed across several independent tenants.
+
+- **Core API (Laravel):** the system of record for the sales transaction. It handles the workflow engine, the financial ledger, subsidies and commissions, and per-tenant configuration.
+- **Pricing and incentives service (Symfony):** resolves which subsidies and margins apply to a vehicle, depending on brand, energy, date and promo code.
+- **Document service (Symfony):** generates PDFs and emails, including regulatory forms and bundles of documents, and merges, fills and stamps them.
+- **Front-end (Vue):** the SPA used by sales and back-office teams.
+
+**Things I've worked on**
+
+- 🔧 Designing and maintaining REST APIs and the business rules around the sales workflow, including state transitions and server-side money calculations
+- 🏢 Multi-tenant operations: rolling out schema changes, configuration and data fixes across environments that diverge, using idempotent migrations and SQL
+- 📄 Document generation: PDF form-filling, document bundles, e-signature flows and automated emails
+- 🔍 OCR and document extraction pipelines, with field mapping and cross-validation of extracted data
+- 🔌 Third-party integrations: e-signature, vehicle data providers, financing and OCR services, each behind its own wrapper
+- 🧮 A configurable expression engine for business rules and calculated fields
+- 🧪 Testing and quality: PHPUnit, static analysis (Larastan) and code style (Pint) as part of the workflow
+- 🚀 Framework upgrades and production deployments, plus incident diagnosis from logs and production data
 
 ## Connect with me
 
@@ -32,19 +53,22 @@ Building reliable APIs, scalable services, and practical web solutions.
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mariadb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frameworks and libraries
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -54,16 +78,19 @@ Building reliable APIs, scalable services, and practical web solutions.
 
 ### Databases and infrastructure
 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -88,10 +115,10 @@ Building reliable APIs, scalable services, and practical web solutions.
 
 ## A note from me
 
-I recently started this GitHub account after losing access to my previous account, [@abdelghani1002](https://github.com/abdelghani1002). I’m excited to share fresh projects, ideas, and continuous improvements here.
+I recently started this GitHub account after losing access to my previous account, [@abdelghani1002](https://github.com/abdelghani1002). I'm excited to share fresh projects, ideas, and continuous improvements here.
 
 <div align="center">
 
-**Thanks for stopping by — feel free to explore my repositories and connect with me!** 🚀
+**Thanks for stopping by. Feel free to explore my repositories and connect with me!** 🚀
 
 </div>
